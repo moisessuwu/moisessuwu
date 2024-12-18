@@ -7,12 +7,14 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=moisessuwu&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=moisessuwu&color=ff69b4&style=plastic&label=Visitas+a+mi+perfil" alt="watching_count" />
 
 
  <p align="center">
 <img src="https://img.shields.io/badge/Edad-19-blue" />
   <img src="https://img.shields.io/badge/Enfocado en-Desarrollo%20de%20Software-brightgreen" />
+   <img src="https://img.shields.io/badge/Inteligencia%20artificial-brightgreen" />
+   <img src="https://img.shields.io/badge/Ciberseguridad-brightgreen" />
   <img src="https://img.shields.io/badge/Ciudad-Tlaxcala%20-success" />
   <img src="https://img.shields.io/badge/Idiomas-Español%20%26%20Ingles-brightgreen" />
 </p>
